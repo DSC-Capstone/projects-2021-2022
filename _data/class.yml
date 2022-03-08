@@ -1,0 +1,936 @@
+- abstract: Policing is a rather mixed affair hinging on a number of different factors
+    with some encounters being relatively short and simple while others are more tense
+    and hostile. There are many different reasons for why police make the decisions
+    that they make, either rightfully or wrongfully, many of which aren't directly
+    observable or easily determined within police data. Some of these factors may
+    include suspicion of drivers doing illegal activity, misdemeanors, or having unconscious
+    bias against individuals that appear to fit their mental description of what a
+    criminal may look like. While racial prejudice is one of the more striking factors
+    to point at when considering how or why encounters between individuals and police
+    officers go differently, decisions seemly motivated by racial bias may potentially
+    be actually due to social class or perceived social class of the individual rather
+    than their race.
+  domain: domain_00
+  names: Leon Kuo
+  num: project_50
+  repo: https://github.com/leonkuoDSC/Policing_and_Income.git
+  report: https://raw.githubusercontent.com/leonkuoDSC/artifact-directory-template/main/report.pdf
+  section: A01
+  title: Traffic Policing And Its Relationship With Income
+  website: https://leonkuodsc.github.io/Policing-and-Income-Website/
+- abstract: "Nowadays, we are seeing a great amount of data generated everywhere.\
+    \ The Data will bring us both challenges and opportunities. As AutoPhrase is developed,\
+    \ \nan automated and domain-independent phrase mining method, we see its potential\
+    \ to be used on extracting quality phrases from numerous daily financial news\
+    \ \nand editorials, to improve the current data prediction model using bag-of-words\
+    \ and other conventions as its entry. This experiment could be very promising\
+    \ \nsince it can be a quick classifier of long text reports. Analysts then may\
+    \ use the result as a supportive reason for future investments. Thus, adapting\
+    \ this \nmethod could improve the efficiency with the same accuracy if used properly.\
+    \ In this project, we will give a report of comparison of performances among \n\
+    conventional methods and AutoPhrase on predicting the change of stock price (increase\
+    \ or decrease). We will also include the comparison between the performances \n\
+    of AutoPhrase and deep learning methods on predicting the change of the stock\
+    \ price."
+  domain: domain_01
+  names: Liuyang Zheng, Yunhan Zhang, Mingjia Zhu
+  num: project_20
+  repo: https://github.com/lizheng1226/DSC180B_Project_AutoFiNews.git
+  report: https://raw.githubusercontent.com/mingjiazhu/artifact-directory-template/main/report.pdf
+  section: A02
+  title: Stock Price Prediction Based on Financial News
+  website: https://aponyua991.github.io/AutoFiNews/
+- abstract: Building a spam detection algorithm by utilizing Natural Language Processing
+    to extract features associated with spam emails. Deep Learning methods as well
+    as word-to-vector transformation are used to create a spam email classifier.
+  domain: domain_01
+  names: Jonathan Tanoto
+  num: project_23
+  repo: https://github.com/jonathantanoto/spam_detection_180B/
+  report: https://raw.githubusercontent.com/jonathantanoto/artifact-directory-template/main/report.pdf
+  section: A02
+  title: Spam Detection Using Natural Language Processing
+  website: https://jonathantanoto.github.io/spamdetection/
+- abstract: "Codenames is a popular board game that relies on word association and\
+    \ its ultimate goal is to connect multiple words together with a single clue word.\
+    \ In this paper, we construct a system that incorporates artificial intelligence\
+    \ into the game to allow communication between humans and AI as well as providing\
+    \ the capability of replacing human effort in creating such a clue word. Our project\
+    \ utilized three types of word relationship measurements from Word2Vec, GloVe,\
+    \ and WordNet, to design and understand word relationships used in this game.\
+    \ An AI system is built on each measurement and tested on both AI-AI and AI-Human\
+    \ communication performance. We evaluate the performance with each system\u2019\
+    s average speed in finishing a game as well as its ability to accurately identify\
+    \ their team words. The AI-AI team performance demonstrates outstanding efficiency\
+    \ for AI to manage this game, and the best performing measurement is able to achieve\
+    \ a 60% accuracy in its communication between AI and Human."
+  domain: domain_01
+  names: Xuewei Yan, Cameron Shaw, Yongqing Li
+  num: project_22
+  repo: https://github.com/YongqingLi14/codenames-ai-analysis.git
+  report: https://raw.githubusercontent.com/YongqingLi14/artifact-directory-template/main/report.pdf
+  section: A02
+  title: Codenames AI
+  website: https://xueweiyan.github.io/codenames-ai-website/
+- abstract: Phrase mining is a useful tool to extract quality phrases from large text
+    corpora. Previous work on this topic, such as AutoPhrase, demonstrates its effectiveness
+    against baseline methods by using precision-recall as a metric. Our goal is to
+    extend this work by analyzing how AutoPhrase phrases change over time, as well
+    as how phrases are connected with each other by using network visualizations.
+    This will be done through exploratory data analysis, along with a classification
+    model utilizing individual phrases to predict a specific year range.
+  domain: domain_01
+  names: Jason Lin, Cameron Brody, James Yu
+  num: project_21
+  repo: https://github.com/jamesjaeyu/autophrase_over_time.git
+  report: https://raw.githubusercontent.com/jamesjaeyu/artifact-directory-template/main/report.pdf
+  section: A02
+  title: Utilizing AutoPhrase on Computer Science papers over time
+  website: https://jamesjaeyu.github.io/autophrase_over_time/
+- abstract: In this project, we set out to explore the application of blockchain technology
+    to Electronical Health Records systems. As we are prototyping the blockchain applications
+    on the Electronic Medical Records System using our proposed Medcoin application,
+    we encountered several challenges. After careful evaluations and discussions,
+    we decide to turn our project into an exploration of the pros and cons of using
+    blockchain applications in the Electronic Health Records system. We find that
+    the proposed authorization contract could not meet the required authentication
+    and testification functions of EHR, which are the two essential components for
+    EHR, we, therefore, stop in our prototyping and in our report provide a discussion
+    of advantages and disadvantages of using Blockchain for EHR systems. And due to
+    the privacy issue of medical records, we also find the authorization smart contract
+    proposal infeasible and exhibits lack of considerations. Our prototyping of smart
+    contract failure could serve as a valuable lesson to why centralized application
+    could be more proper to Medical Records related system design.
+  domain: domain_02
+  names: Ruiwei Wan, Yifei Wang
+  num: project_14
+  repo: https://github.com/mcelz/MedCoin-Authorization-Smart-Contract
+  report: https://raw.githubusercontent.com/mcelz/artifact-directory-template/main/report.pdf
+  section: A03
+  title: An Exploration on Medical Records using Blockchain Technology
+  website: https://ellawan.github.io/
+- abstract: MY SUPER AWESOME PROJECT ABSTRACT
+  domain: domain_03
+  names: Kailing Ding, Judy Jin, Derek Leung, Miles Labrador
+  num: project_32
+  repo: https://github.com/DSC-Capstone/project-templates.git
+  report: https://raw.githubusercontent.com/DSC-Capstone/artifact-directory-template/main/report.pdf
+  section: A04
+  title: MY SUPER AWESOME PROJECT TITLE
+  website: https://afraenkel.github.io/capstone-malware-domain/
+- abstract: "Having observed data seems to be a necessary requirement to conduct inference,\
+    \ but what happens when observed outcomes cannot easily be obtained? A growing\
+    \ practice is to simply proceed with using predicted outcomes, but without any\
+    \ corrections this can result in issues like bias and incorrect standard errors.\
+    \ Our project studies a correction method for inference conducted on predicted,\
+    \ not observed outcomes\u2014called post-prediction inference\u2014through the\
+    \ lens of political data. We are investigating the kinds of phrases or words in\
+    \ a tweet will most strongly indicate a person\u2019s political alignment to US\
+    \ politics. We have discovered that these correction techniques are promising\
+    \ in their ability to correct for post-prediction inference in the field of political\
+    \ science."
+  domain: domain_04
+  names: Luis Ledezma-Ramos, Dylan Haar, Alicia Gunawan
+  num: project_13
+  repo: https://github.com/dhaar-data/DSC180B-project.git
+  report: https://raw.githubusercontent.com/alicegunawan/dsc180-artifact-directory/main/report.pdf
+  section: A05
+  title: Post-Prediction Inference on Political Twitter
+  website: https://dhaar-data.github.io/DSC180B-project/
+- abstract: After researching about a new inference correction approach called post-prediction
+    inference, we chose to apply it to sports analysis based on NFL games. We designed
+    a model that can predict the Spread of a football game, such as which team will
+    win and what the margin of their victory will be. We then analyzed the most/least
+    important features so that we can accurately correct inference for these variables
+    in order to more accurately understand their impact on our response variable,
+    Spread.
+  domain: domain_04
+  names: Jonathan Langley, Sujeet Yeramareddy, Yong Liu
+  num: project_12
+  repo: https://github.com/sujeetyeramareddy9/NFL-Analysis
+  report: https://raw.githubusercontent.com/yol146/artifact-directory-template/main/report.pdf
+  section: A05
+  title: NFL-Analysis
+  website: https://jonlangley2022.github.io
+- abstract: We explore both Markov Chain Monte Carlo algorithms and variational inference
+    methods for Latent Dirichlet Allocation (LDA), a generative probabilistic topic
+    model for data such as text data. LDA is a generative probabilistic topic model,
+    meaning we treat data as observations that arise from a generative probabilistic
+    process including hidden variables, i.e. structure we want to find in the data.
+    Topic modelling allows us to fulfill algorithmic needs to organize, understand,
+    and annotate documents according to the discovered structure. For text data, hidden
+    variables reflect the thematic structure of a corpus that we don't have access
+    to, we only have access to our observations which are the documents of the collection
+    themselves. Our aim is to infer this hidden structure through posterior inference,
+    that is, we want to compute the conditional distribution of the hidden variables
+    given our observations, and we use our knowledge from Q1 about inference methods
+    to solve this problem.
+  domain: domain_05
+  names: Duha Aldebakel, Rui Zhang, Anthony Limon, Yu Cao
+  num: project_41
+  repo: https://github.com/duha-aldebakel/DSC180B-LDACode
+  report: https://raw.githubusercontent.com/a1limon/artifact-directory-template/main/report.pdf
+  section: A06
+  title: Investigation on Latent Dirichlet Allocation
+  website: https://a1limon.github.io/DSC180B.visual.io/
+- abstract: In this domain, we learned about the methods around localizing sound waves
+    using special devices called microphone arrays. Broadly speaking, this device
+    can figure what a sound is and where it came from. With the growing ubiquity of
+    microphone devices, we find this to be a potentially useful use-case. The base
+    case scenario method involves what is called "affine mapping" which is essentially
+    another form of linear transformation. In this project, we decided to examine
+    how machine learning techniques such as Neural Networks, Support Vector Machines,
+    and Random Forest may benefit (or not benefit) in this field.
+  domain: domain_07
+  names: Raymond Zhao, Brady Zhou
+  num: project_42
+  repo: https://github.com/889884m/DSC180_Project.git
+  report: https://raw.githubusercontent.com/889884m/artifact-directory/main/report.pdf
+  section: A08
+  title: Locating Sound with Machine Learning
+  website: https://889884m.github.io/DSC180_Project/
+- abstract: Pyrenote is a project in development by a growing group of student researchers
+    here at UCSD. It's primary purpose is to allow anyone to contribute to research
+    by labeling data in an intuitive and accessible way. Right now it is currently
+    being used to develop a sort of voice recognition for birds. The goal is to make
+    an algorithm that can strongly label data (say where in the clip a bird is calling
+    and what bird is making the call). To do this, a very vast dataset is needed to
+    be labeled. I worked mostly on the user experience side. Allowing them to interact
+    with their labeling in new ways, such as keeping tabs on their progress and reaching
+    goals. Developing a User Profile page was the primary source for receiving this
+    data and was developed iteratively as a whole new page for the site
+  domain: domain_08
+  names: Dylan Nelson
+  num: project_15
+  repo: https://github.com/UCSD-E4E/Pyrenote
+  report: https://raw.githubusercontent.com/dylannelson/artifact-directory-template/main/report.pdf
+  section: A09
+  title: Pyrenote - User Profile Design & Accessible Data
+  website: https://www.dylan-nelson.com/Pyrenote/
+- abstract: Leveraging "Deep Learning" methods to classify temporal presence birds
+    in recorded bird vocalization audio. Using a hybrid CNN-RNN model, trained on
+    audio data, in the interest of benefitting wildlife monitoring and preservation.
+  domain: domain_08
+  names: Edmundo Zamora
+  num: project_16
+  repo: https://github.com/EdmundoZamora/TweetyNet_CUDA_GPU_Adaptation.git
+  report: https://raw.githubusercontent.com/EdmundoZamora/artifact-directory-template/main/report.pdf
+  section: A09
+  title: 'Eco-Acoustic Event Detection: Classifying temporal presence of birds in
+    recorded bird vocalization audio'
+  website: https://edmundozamora.github.io/DSC180-A09-Eco-Acoustic-Detection/
+- abstract: null
+  domain: domain_08
+  names: Harsha Jagarlamudi, Kelly Kong
+  num: project_17
+  repo: null
+  report: null
+  section: A09
+  title: null
+  website: null
+- abstract: The website, Pyrenote, is helping scientists track bird populations by
+    identifying them using machine learning classifiers on publicly annotated audio
+    recordings. I have implemented three features over the course of two academic
+    quarters aimed at streamlining user experience and improving scalability. The
+    added scalability will be useful for future projects as we start becoming more
+    ambitious with the number of users we bring to the site.
+  domain: domain_08
+  names: Wesley Zhen
+  num: project_18
+  repo: https://github.com/UCSD-E4E/Pyrenote
+  report: https://raw.githubusercontent.com/WesCodes/artifact-directory-template/main/report.pdf
+  section: A09
+  title: Pyrenote Webdeveloper
+  website: https://wescodes.github.io/Wes_Project/
+- abstract: 'Nowadays, human activities such as wildfires and hunting have become
+    the largest factor that would have serious negative effects on biodiversity. In
+    order to deeply understand how anthropogenic activities deeply affect wildlife
+    populations, field biologists utilize automated image classification driven by
+    neural networks to get relevant biodiversity information from the images. However,
+    for some small animals such as insects or birds, the camera could not work very
+    well because of the small size of these animals. It is extremely hard for cameras
+    to capture the movement and activities of small animals. To effectively solve
+    this problem, passive acoustic monitoring (PAM) has become one of the most popular
+    methods. We could utilize sounds we collect from PAM to train certain machine
+    learning models which could tell us the fluctuation of biodiversity of all these
+    small animals. The goal of the whole program is to test the biodiversity of these
+    small animals (most of them are birds). However, the whole program could be divided
+    into plenty of small parts. I and Jinsong will pay attention to the intermediate
+    step of the program.
+
+
+    The goal of our project is to generate subsets of audio recordings that have higher
+    probability of vocalization of interest, which could help our labeling volunteer
+    to save time and energy. The solutions could help us reduce down the amount of
+    time and resources required to achieve enough training data for species-level
+    classifiers. We perform the same thing with AID_NeurIPS_2021. Only the data is
+    different between these two github. For this github, we use the peru data instead
+    of Coastal_Reserve data.'
+  domain: domain_08
+  names: Qiaochen Sun
+  num: project_19
+  repo: https://github.com/sunqiaochen/NeurlPS_2022_DSC180
+  report: https://raw.githubusercontent.com/sunqiaochen/artifact-directory-template/main/report.pdf
+  section: A09
+  title: E4E MicroFaune Project
+  website: https://github.com/sunqiaochen/NeurlPS_2022_DSC180
+- abstract: "Spread of misinformation over social media posts challenges to daily\
+    \ information intake and exchange. Especially under current covid 19 pandemic,\
+    \ the disperse of misinformation regarding to covid 19 diseases and vaccination\
+    \ posts threats to individuals' wellbeing's and general publish health. The people's\
+    \ worries also increase with misinformation such as the shortage of food and water.\
+    \ This spread of misinformation also provide This project seeks to investigate\
+    \ the spread of misinformation over social media (Twitter) under covid 19 pandemic.\
+    \ wo main directions are investigated in the project. The first direction is the\
+    \ analysis of the effect of bot users on the spread of misinformation: We want\
+    \ to explore what is the role that robot user plays in spreading the misinformation.\
+    \ Where are the bot users located in the social network. The second direction\
+    \ is the sentiment analysis that examines users' attitudes towards misinformation:\
+    \ We want to see the spread of sentiment with different places in social networks.\
+    \ We also mixed the two directions: What is the relationship between bot-users\
+    \ with positive and negative emptions? Since online social medias users form social\
+    \ networks, the project also seeks to investigate the effect of social network\
+    \ on the above two topics. Moreover, the project is also interested in exploring\
+    \ the change in proportion of bot users and users' attitude towards misinformation\
+    \ as \nthe social network becomes more concentrated and tightly connected."
+  domain: domain_09
+  names: Ruojia Tao
+  num: project_2
+  repo: https://github.com/RuojiaTao/Covid-Misinformation-Spread-on-Tweets.git
+  report: https://raw.githubusercontent.com/RuojiaTao/artifact-directory-template/main/report.pdf
+  section: A10
+  title: Who is Spreading Misinformation and Worries in Twitter?
+  website: https://ruojiatao.github.io/Covid-Misinformation-Spread-on-Tweets/
+- abstract: MY SUPER AWESOME PROJECT ABSTRACT
+  domain: domain_09
+  names: Aditi Shrivastava, Tyler Ready
+  num: project_3
+  repo: https://github.com/DSC-Capstone/project-templates.git
+  report: https://raw.githubusercontent.com/DSC-Capstone/artifact-directory-template/main/report.pdf
+  section: A10
+  title: MY SUPER AWESOME PROJECT TITLE
+  website: https://afraenkel.github.io/capstone-malware-domain/
+- abstract: "In our Capstone Project, we explore the spread of misinformation online.\
+    \ More specifically, we look at the spread of misinformation across Twitter and\
+    \ YouTube because of the large role these two social media platforms play in the\
+    \ dissemination of news and information. Our main objectives are to understand\
+    \ how YouTube videos contribute to spreading misinformation on Twitter, evaluate\
+    \ how effectively YouTube is removing misinformation and if these policies also\
+    \ prevent users from engaging with misinformation. We take a novel approach of\
+    \ analyzing tweets, YouTube video captions, and other metadata using NLP to determine\
+    \ the presence of misinformation and investigate how individuals interact or spread\
+    \ misinformation. Our research focuses on the domain of public health as this\
+    \ is the subject of many conspiracies, varying opinions, and fake news. \n"
+  domain: domain_09
+  names: Anamika Gupta
+  num: project_4
+  repo: https://github.com/fieryashes/DSC180B_Misinformation_Project.git
+  report: https://raw.githubusercontent.com/anaaamika/artifact-directory-template/main/report.pdf
+  section: A10
+  title: The Spread of YouTube Misinformation Through Twitter
+  website: https://anaaamika.github.io/DSC180B-Misinformation/
+- abstract: As social media has grown in popularity, namely Reddit, its use for rapidly
+    sharing information based on categories or topics (subreddits) has had massive
+    implications for how people are usually exposed to information and the quality
+    of the information they interact with. While Reddit has its benefits, e.g. providing
+    instant access to - nearly - real time, categorized information, it has possibly
+    played a role in worsening divisions and the spread of misinformation. Our results
+    showed that subreddits with the highest proportions of misinformation posts tend
+    to lean more towards politics and news. In addition, we found that despite the
+    frequency of misinformation per subreddit, the average upvote ratio per submission
+    seemed consistently high, which indicated that subreddits tend to be ideologically
+    homogeneous.
+  domain: domain_09
+  names: Samuel Huang, David Aminifard
+  num: project_5
+  repo: https://github.com/davamini/DSC180B_Reddit_MisInfo_Capstone
+  report: https://raw.githubusercontent.com/helorise/artifact-directory-template/main/report.pdf
+  section: A10
+  title: Misinformation on Reddit
+  website: https://davamini.com/dsc180_project.github.io/
+- abstract: "Extending the content of last quarter of deep sets neural network, fully\
+    \ connected neural network classifier, adversarial deep set model and designed\
+    \ decorrelated tagger (DDT), we went a little bit further this quarter about picking\
+    \ up different layers in neural network like GENConv and EdgeConv. GENConv and\
+    \ EdgeConv play incredibly important roles here for boosting the performances\
+    \ of our basic GNN model. We also evaluated the performance of our model using\
+    \ ROC (Receiver-Operating Curve) curves describing AUC (Area Under the Curve).\
+    \ Meanwhile, based on previous experiences of project one and past project of\
+    \ particle physics domain, we decided to add one more section, exploratory data\
+    \ analysis in our project for conducting some basic theory, bootstrapping or common\
+    \ sense of our dataset. \nBut we have not produced all the optimal outcomes so\
+    \ far even though we finished the EdgeConv part and for the following weeks, we\
+    \ would like to finish the GENConv and may try some other layers to find out the\
+    \ potential to increase the performance of our model."
+  domain: domain_10
+  names: Charul Sharma, Rui Lu, Bryan Ambriz
+  num: project_31
+  repo: https://github.com/Bryan-Az/DSC-Capstone-Result-Replication
+  report: https://raw.githubusercontent.com/Bryan-Az/artifact-directory-template/main/report.pdf
+  section: A11
+  title: Understanding Higgs Boson Particle Jets with Graph Neural Networks
+  website: http://www.bambriz.me/wp-content/uploads/2022/02/dsc180b.html
+- abstract: "The Large Hadron Collider (LHC) collides protons traveling near light\
+    \ speed to generate high-energy collisions. These collisions produce new particles\
+    \ and have led to the discovery of new elementary particles (e.g., Higgs Boson).\
+    \ One key information to collect from this collision event is the structure of\
+    \ the particle jet, which refers to a group of collective spray of decaying particles\
+    \ that travel in the same direction, as accurately identifying the type of these\
+    \ jets - QCD or signal - play a crucial role in discovery of high-energy elementary\
+    \ particles like Higgs particle. There are several properties that determine jet\
+    \ type with jet mass being one of the strongest indicators in jet type classification.\
+    \ A previous study jet mass estimation, called \u201Csoft drop declustering,\u201D\
+    \ has been one of the most effective methods in making rough estimations on the\
+    \ jet mass. With this in mind, we aim to implement machine learning in jet mass\
+    \ estimation through various neural network architectures. With data collected\
+    \ and processed by CERN, we implemented a model capable of improving jet mass\
+    \ prediction through jet features."
+  domain: domain_10
+  names: Isac Lee
+  num: project_30
+  repo: https://github.com/UCSDJLEE/DSC180B-A11-Project
+  report: https://raw.githubusercontent.com/isacmlee/artifact-directory-template/main/report.pdf
+  section: A11
+  title: Predicting a Particle's True Mass
+  website: https://isacmlee.github.io/particle-physics-visuals/
+- abstract: MY SUPER AWESOME PROJECT ABSTRACT
+  domain: domain_11
+  names: Aileena Wen, Lukas Williams
+  num: project_51
+  repo: https://github.com/lwilliams620/dsc180b.git
+  report: https://raw.githubusercontent.com/lwilliams620/artifact-directory-template/main/report.pdf
+  section: A12
+  title: MY SUPER AWESOME PROJECT TITLE
+  website: https://bonnie117.github.io/#
+- abstract: Use Graph-based Analysis to Re-classify Stocks in China A-share and Improve
+    Markowitz Portfolio Optimization
+  domain: domain_12
+  names: Sheng Yang
+  num: project_6
+  repo: https://github.com/yangshengaa/dynamic_stock_industry_classification.git
+  report: https://raw.githubusercontent.com/yangshengaa/artifact-directory-template/main/report.pdf
+  section: A13
+  title: Dynamic Stock Industry Classification
+  website: https://yangshengaa.github.io/dynamic_stock_industry_classification/
+- abstract: "With the rise of music streaming services on the internet in the 2010\u2019\
+    s, many have moved away from radio stations to streaming services like Spotify\
+    \ and Apple Music. This shift offers more specificity and personalization to users\u2019\
+    \ listening experiences, especially with the ability to create playlists of whatever\
+    \ songs that they wish. Oftentimes user playlists have a similar genre or theme\
+    \ between each song, and some streaming services like Spotify offer recommendations\
+    \ to expand a user\u2019s existing playlist based on the songs in it. Using Node2vec\
+    \ and GraphSAGE graph neural network methods, we set out to create a recommender\
+    \ system for songs to add to an existing playlist by drawing information from\
+    \ a vast graph of songs we built from playlist co-occurrences. The result is a\
+    \ personalized song recommender based not only on Spotify\u2019s community of\
+    \ playlist creators, but also the specific features within a song."
+  domain: domain_12
+  names: Benjamin Becze, Jiayun Wang, Shone Patil
+  num: project_7
+  repo: https://github.com/shonepatil/GNN-Spotify-Recommender-Project
+  report: https://raw.githubusercontent.com/shonepatil/artifact-directory-template/main/report.pdf
+  section: A13
+  title: Graph Neural Network Based Recommender Systems for Spotify Playlists
+  website: https://shonepatil.github.io/GNN-Spotify-Recommender-Website/
+- abstract: "The Hal\u0131c\u0131og\u0306lu Data Science Institute (HDSI) at University\
+    \ of California, San Diego is dedicated to the discovery of new methods and training\
+    \ of students and faculty to use data science to solve problems in the current\
+    \ world. The HDSI has several industry partners that are often searching for assistance\
+    \ to tackle their daily activities and need experts in different domain areas.\
+    \ Currently, there are around 55 professors affiliated to HDSI. They all have\
+    \ diverse research interests and have written numerous papers in their own fields.\n\
+    \nOur goal was to create a tool that allows HDSI to select the best fit from their\
+    \ faculty, based on their published work, to aid their industry partners in their\
+    \ specific endeavors. We did this with Natural Language Processing (NLP) by managing\
+    \ all the abstracts from the faculty\u2019s published work and organizing them\
+    \ by topics. We will then obtained the proportion of papers of each faculty associated\
+    \ with each of the topics and drew a relationship between researchers and their\
+    \ most published topics. This will allow HDSI to personalize recommendations of\
+    \ faculty candidates to their industry partner\u2019s particular job."
+  domain: domain_13
+  names: Martha Yanez, Sijie Liu, Siddhi Patel, Brian Qian, Du Xiang
+  num: project_37
+  repo: https://github.com/MarthaY01/hdsi_faculty_tool/tree/main
+  report: https://raw.githubusercontent.com/xd00099/HDSI-faculty-tool-artifact-directory/main/report.pdf
+  section: A14
+  title: HDSI Faculty Exploration Tool
+  website: https://marthay01.github.io/hdsi_faculty_tool/
+- abstract: In order to combat against such adversarial instances, there needs to
+    be robust training done with these models in order to best protect against the
+    methods that these attacks use on deep learning systems. In the scope of this
+    paper, we will be looking into the methods of fast gradient signed method and
+    projected gradient descent, two methods used in adversarial attacks to maximize
+    loss functions and cause the affected system to make opposing predictions, in
+    order to train our models against them and allow for stronger accuracy when faced
+    with adversarial examples.
+  domain: domain_14
+  names: Rakesh Senthilvelan, Madeline Tjoa
+  num: project_11
+  repo: https://github.com/Maderlime/DSC180_Q1_Code
+  report: https://raw.githubusercontent.com/rakeshsenthil/artifact-directory-template/main/report.pdf
+  section: A15
+  title: 'Healthcare: Adversarial Defense In Medical Deep Learning Systems'
+  website: https://medicala15.github.io/about/
+- abstract: Autonomous vehicles rely heavily on deep fusion modeling, which utilize
+    multiple inputs for its inferences and decision making. By using the shared information
+    from these inputs, the deep fusion model benefits from shared information, which
+    is primarily associated with robustness as these input sources can face different
+    levels of corruption. Thus, it is highly important that the deep fusion models
+    used in autonomous vehicles are robust to corruption, especially to input sources
+    that are weighted more heavily in different conditions. We explore a different
+    approach in training the robustness for a deep fusion model through adversarial
+    training. We fine-tune a clean model with adversarial examples and evaluate its
+    robustness against single source noise. We believe that this is relevant given
+    the risks that autonomous vehicles pose to pedestrians - it is important that
+    we ensure the inferences and decisions made by the model are robust against corruption,
+    especially if it is intentional from outside threats.
+  domain: domain_14
+  names: Ayush More, Amy Nguyen
+  num: project_10
+  repo: https://github.com/amuamushu/adv_avod_ssn.git
+  report: https://raw.githubusercontent.com/amuamushu/artifact-directory-template/main/report.pdf
+  section: A15
+  title: Improving Robustness in Deep Fusion Modeling Against Adversarial Attacks
+  website: https://ayushmore.github.io/adversarial-avod/
+- abstract: MY SUPER AWESOME PROJECT ABSTRACT
+  domain: domain_15
+  names: Ivan Cano, Byungheon Jeong
+  num: project_34
+  repo: https://github.com/DSC-Capstone/project-templates.git
+  report: https://raw.githubusercontent.com/DSC-Capstone/artifact-directory-template/main/report.pdf
+  section: A16
+  title: MY SUPER AWESOME PROJECT TITLE
+  website: https://afraenkel.github.io/capstone-malware-domain/
+- abstract: null
+  domain: domain_16
+  names: Trevor Tuttle, Mizuki Kadowaki, Jeffrey Feng, Takashi Yabuta, Shweta Kumar
+  num: project_49
+  repo: null
+  report: null
+  section: B01
+  title: null
+  website: null
+- abstract: 'In order to combat the large scale distribution of misinformation online,
+    We wanted to develop a way to flag news articles that are misinformative and could
+    potentially mislead the general public.  In addition to flagging news articles,
+    we also wanted to find commonalities between the misinformation that we found.
+    Were some topics in specific containing more misleading information than others?
+    How much overlap do these articles have when we break their content down into
+    TF IDF and see what words carry the most importance when put into various models
+    detecting misinformation. We wanted to narrow down our models to be trained on
+    four different topics: economics, politics, science, and general which is a dataset
+    encompassing the three previous topics. We Found that general included the most
+    overlap overall, while the topics themselves, while mostly different than the
+    other specific topics, had certain models that still put emphasis on similar words,
+    indicating a possible pattern of misinformative language in these articles.  We
+    believe, from these results, that we can find a pattern that could direct further
+    investigation into how misinformation is written and distributed online.'
+  domain: domain_17
+  names: Lucas Nguyen, Hwang Yu, Maximilian Halvax
+  num: project_39
+  repo: https://github.com/freebreadstix/capstone_B02
+  report: https://raw.githubusercontent.com/micmiccitymax/artifact-directory-template/main/report.pdf
+  section: B02
+  title: Finding Commonalities in misinformative Articles Across Topics
+  website: https://micmiccitymax.github.io/dsc180b02-site/
+- abstract: "Musicians often trend on social media for various reasons but in recent\
+    \ years, there has been a rise in musicians being \u201Ccanceled\u201D for committing\
+    \ offensive or socially unacceptable behavior. Due to the wide accessibility of\
+    \ social media, the masses are able to hold accountable musicians for their actions\
+    \ through \u201Ccancel culture\u201D, a form of modern ostracism. Twitter has\
+    \ become a well-known platform for \u201Ccancel culture\u201D as users can easily\
+    \ spread hashtags and see what\u2019s trending, which also has the potential to\
+    \ facilitate the spread of toxicity. We analyze how public sentiment towards canceled\
+    \ musicians on Twitter changes in respect to the type of issue they were canceled\
+    \ for, their background, and the strength of their parasocial relationship with\
+    \ their fans. Through our research, we aim to determine whether \u201Ccancel culture\u201D\
+    \ leads to an increase in toxicity and negative sentiment towards a canceled individual."
+  domain: domain_17
+  names: Peter Wu, Nikitha Gopal, Abigail Velasquez
+  num: project_38
+  repo: https://github.com/aavelasq/dsc180-Q2sentiment.git
+  report: https://raw.githubusercontent.com/aavelasq/artifact-directory-template/main/report.pdf
+  section: B02
+  title: The Effect of Twitter Cancel Culture on the Music Industry
+  website: https://aavelasq.github.io/projects/Cancel-Culture-Sentiment/
+- abstract: Historically, analysis on single-cell data has been difficult to perform,
+    due to data collection methods often resulting in the destruction of the cell
+    in the process of collecting information. However, an ongoing endeavor of biological
+    data science has recently been to analyze different modalities, or forms, of the
+    genetic information within a cell. Doing so will allow modern medicine a greater
+    understanding of cellular functions and how cells work in the context of illnesses.
+    The information collected on the three modalities of DNA, RNA, and protein can
+    be done safely and because it is known that they are same information in different
+    forms, analysis done on them can be extrapolated understand the cell as a whole.
+    Previous research has been conducted by Gala, R., Budzillo, A., Baftizadeh, F.
+    et al. to capture gene expression in neuron cells with a neural network called
+    a coupled autoencoder. This autoencoder framework is able to reconstruct the inputs,
+    allowing the prediction of one input to another, as well as align the multiple
+    inputs in the same low dimensional representation. In our paper, we build upon
+    this coupled autoencoder on a data set of cells taken from several sites of the
+    human body, predicting from RNA information to protein. We find that the autoencoder
+    is able to adequately cluster the cell types in its lower dimensional representation,
+    as well as perform decently at the prediction task. We show that the autoencoder
+    is a powerful tool for analyzing single-cell data analysis and may prove to be
+    a valuable asset in single-cell data analysis.
+  domain: domain_18
+  names: Alex Nguyen, Brian Vi
+  num: project_46
+  repo: https://github.com/18anguyen9/Single_Cell_Coupled_Autoencoders
+  report: https://raw.githubusercontent.com/brianvi-98/artifact-directory-template/main/report.pdf
+  section: B03
+  title: Coupled Autoencoders for Single-Cell Data Analysis
+  website: https://18anguyen9.github.io/DSC_180_website/
+- abstract: MY SUPER AWESOME PROJECT ABSTRACT
+  domain: domain_19
+  names: Qiwen Zhang
+  num: project_9
+  repo: https://github.com/DSC-Capstone/project-templates.git
+  report: https://raw.githubusercontent.com/DSC-Capstone/artifact-directory-template/main/report.pdf
+  section: B04
+  title: MY SUPER AWESOME PROJECT TITLE
+  website: https://afraenkel.github.io/capstone-malware-domain/
+- abstract: "Prompt tuning and prefix tuning are two effective mechanisms to leverage\
+    \ frozen language models to perform downstream tasks. Robustness reflects models\u2019\
+    \ resilience of output under a change or noise in the input. In this project,\
+    \ we analyze the robustness of natural language models using various tuning methods\
+    \ with respect to a domain shift (i.e. training on a domain but evaluating on\
+    \ out-of-domain data). We apply both prompt tuning and prefix tuning on T5 models\
+    \ for reading comprehension (i.e. question-answering) and GPT-2 models for table-to-text\
+    \ generation."
+  domain: domain_19
+  names: Lechuan Wang, Colin Wang, Yutong Luo
+  num: project_8
+  repo: https://github.com/zwcolin/T5_SQuAD_Prompt_Tuning
+  report: https://raw.githubusercontent.com/rachelluoyt/artifact-directory-template/main/report.pdf
+  section: B04
+  title: On Evaluating the Robustness of Language Models with Tuning
+  website: https://rachelluoyt.github.io/T5_SQuAD_Prompt_Tuning/
+- abstract: In a previous study, Deloitte Consulting LLP developed a method of creating
+    city simulations through cellular location and geospatial data. Using these simulations
+    of human activity and traffic patterns, better decisions can be made regarding
+    modes of transportation or road construction. However, the current commonly used
+    method of estimating transportation mode choice is a utility model that involves
+    many features and coefficients that may not necessarily be important but still
+    make the model more complex. Instead, we used a tree-based approach - in particular,
+    XGBoost - to identify just the features that are important for determining mode
+    choice so that we can create a model that is simpler, robust, and easily deployable,
+    in addition to performing better than the original utility model on both the full
+    dataset and population subsets.
+  domain: domain_20
+  names: Lisa Kuwahara, Ruiqin Li, Sophia Lau
+  num: project_33
+  repo: https://github.com/lkuwahara/DSC180B.github.io-B05/tree/gh-pages
+  report: https://raw.githubusercontent.com/Sapphirerain/artifact-directory-template/main/report.pdf
+  section: B05
+  title: A Tree-Based Model for Activity Based Travel Models and Feature Selection
+  website: https://lkuwahara.github.io/DSC180B.github.io-B05/
+- abstract: "Nowadays, the algorithmic decision-making system has been very common\
+    \ in people\u2019s daily lives. Gradually, some algorithms become too complex\
+    \ for humans to interpret, such as some black-box machine learning models and\
+    \ deep neural networks. In order to assess the fairness of the models and make\
+    \ them better tools for different parties, we need explainable AI (XAI) to uncover\
+    \ the reasoning behind the predictions made by those black-box models. In our\
+    \ project, we will be focusing on using different techniques from causal inferences\
+    \ and explainable AI to interpret various classification models across various\
+    \ domains. In particular, we are interested in three domains - healthcare, finance,\
+    \ and the housing market. Within each domain, we are going to train four binary\
+    \ classification models first, and we have four goals in general: 1) Explaining\
+    \ black-box models both globally and locally with various XAI methods. 2) Assessing\
+    \ the fairness of each learning algorithm with regard to different sensitive attributes;\
+    \ 3) Generating recourse for individuals - a set of minimal actions to change\
+    \ the prediction of those black-box models. 4) Evaluating the explanations from\
+    \ those XAI methods using domain knowledge."
+  domain: domain_21
+  names: Jerry Chan, Apoorv Pochiraju, Zhendong Wang, Yujie Zhang
+  num: project_43
+  repo: https://github.com/zhw005/DSC180B-Project
+  report: https://raw.githubusercontent.com/yujiezhang0914/artifact-directory-template/main/report.pdf
+  section: B06
+  title: Explainable AI
+  website: https://yujiezhang0914.github.io/DSC180B-Project-Website/
+- abstract: MY SUPER AWESOME PROJECT ABSTRACT
+  domain: domain_22
+  names: Eric Manirasith
+  num: project_45
+  repo: https://github.com/DSC-Capstone/project-templates.git
+  report: https://raw.githubusercontent.com/DSC-Capstone/artifact-directory-template/main/report.pdf
+  section: B07
+  title: MY SUPER AWESOME PROJECT TITLE
+  website: https://afraenkel.github.io/capstone-malware-domain/
+- abstract: "The first step AutoML software must take after loading in the data is\
+    \ to identify the feature types of individual columns in input data. This information\
+    \ then allows the software to understand the data and then preprocess it to allow\
+    \ machine learning algorithms to run on it.\n \nProject Sortinghat of the ADA\
+    \ lab at UCSD frames this task of Feature Type Inference as a machine learning\
+    \ multiclass classification problem. Machine learning models defined in the original\
+    \ SortingHat feature type inference paper use 3 sets of features as input.\n\n\
+    1. The name of the given column\n2. 5 not null sample values \n3. Descriptive\
+    \ numeric features about the column\n\nThe textual features are easy to access,\
+    \ however the descriptive statistics previous models rely on require a full pass\
+    \ through the data which make preprocessing less scalable. Our goal is to produce\
+    \ models that may rely less on these statistics by better leveraging the textual\
+    \ features. As an extension of Project SortingHat, we experimented with deep learning\
+    \ transformer models and varying the sample sizes used by random forest models.\n\
+    \nWe found that our transformer models achieved state of the art results on this\
+    \ task which outperform all existing tools and ML models that have been benchmarked\
+    \ against SortingHat's ML Data Prep Zoo. Our best model used a pretrained Bidirectional\
+    \ Encoder Representations Transformer(BERT) language model to produce word embeddings\
+    \ which are then processed by a Convolutional Neural Network(CNN) model. \n\n\
+    As a result of this project, we have published 2 BERT CNN models using the PyTorch\
+    \ Hub api. This is to allow software engineers to easily integrate our models\
+    \ or train similar ones for use in AutoML platforms or other automated data preparation\
+    \ applications. Our best model uses all the features defined above, while the\
+    \ other only uses column names and sample values while offering comparable performance\
+    \ and much better scalability for all input data."
+  domain: domain_22
+  names: Andrew Shen, Tanveer Mittal
+  num: project_44
+  repo: https://github.com/TanveerMittal/Feature_Type_Inference_Capstone
+  report: https://raw.githubusercontent.com/TanveerMittal/artifact-directory-template/main/report.pdf
+  section: B07
+  title: Deep Learning Transformer Models for Feature Type Inference
+  website: https://tanveermittal.github.io/capstone/
+- abstract: In machine learning, models are commonly built in such a way to avoid
+    what is known as overfitting. As it is generally understood, overfitting is when
+    a model is fit exactly to the training data causing the model to have poor performance
+    on new examples. This means that overfit models tend to have poor accuracy on
+    unseen data because the model is fit exactly to the training data. Therefore,
+    in order to generalize to all examples of data and not only the examples found
+    in a given training set, models are built with certain techniques to avoid fitting
+    the data exactly. However, it can be found that overfitting does not always work
+    in this way that one might expect as will be shown by fitting models with a given
+    level of noisiness. Specifically, it is seen that some models fit exactly to data
+    with high levels of noise still produce results with high accuracy whereas others
+    are more prone to overfitting.
+  domain: domain_23
+  names: Cheolmin Hwang, Amelia Kawasaki, Robert Dunn
+  num: project_48
+  repo: https://github.com/amelia-kawasaki/dsc_capstone
+  report: https://raw.githubusercontent.com/rdunnUCSD/capstone-artifact-directory/main/report.pdf
+  section: B08
+  title: 'Exploring Noise in Data: Applications to ML Models'
+  website: https://amelia-kawasaki.github.io/dsc_capstone/
+- abstract: The COVID-19 pandemic that has persisted for more than two years has been
+    combated by efficient testing strategies that reliably identifies positive individuals
+    to slow the spread of the pandemic. Opposed to other pooling strategies within
+    the domain, the methods described in this paper prioritize true negative samples
+    over overall accuracy. In the Monte Carlo simulations, both nonadaptive and adaptive
+    testing strategies with random pool sampling resulted in high accuracy approaching
+    at least 95% with varying pooling sizes and population sizes to decrease the number
+    of tests given. A split tensor rank 2 method attempts to identify all infected
+    samples within 961 samples, converging the number of tests to 99 as the prevalence
+    of infection converges to 1%.
+  domain: domain_24
+  names: Jeffrey Chu, Mengfan Chen, Vincent Lee, Ethan Dinh-Luong
+  num: project_47
+  repo: https://github.com/edinhluo/DSC180-Capstone-Project
+  report: https://raw.githubusercontent.com/edinhluo/artifact-directory-template/main/report.pdf
+  section: B09
+  title: COVID-19 Group Testing Optimization Strategies
+  website: https://v1leeucsd.github.io/
+- abstract: "This project examines causal relationships between various socioeconomic\
+    \ variables and life expectancy outcomes in 166 different countries, with the\
+    \ ability to account for new, unseen data and variables with an intuitive data\
+    \ pipeline process with detailed instructions and the PC algorithm with updated\
+    \ code to account for missingness in data. With access to this model and pipeline,\
+    \ we hope that questions such as \u201Cdo authoritarian countries have a direct\
+    \ relation to life expectancy?\u201D or \u201Chow does women in government affect\
+    \ perceived notion of social support?\u201D will now be able to be answered and\
+    \ understood. Through our own analysis, we were able to find intriguing results,\
+    \ such as a higher Perception of Corruption is distinctly related to a lower Life\
+    \ Ladder score. We also found that higher quality of life perceptions is related\
+    \ to lower economic inequality. These results aim to educate not only the general\
+    \ public, but government officials as well."
+  domain: domain_25
+  names: Adam Kreitzman, Maxwell Levitt, Emily Ramond
+  num: project_0
+  repo: https://github.com/mglevitt/Medical-Disparity-Causal-Analysis
+  report: https://raw.githubusercontent.com/emily-ramond/artifact-directory-template/main/report.pdf
+  section: B10
+  title: Causal Effects of Socioeconomic and Political Factors on Life Expectancy
+    in 166 Different Countries
+  website: https://emily-ramond.github.io/Life-Expectancy-Causal-Analysis/
+- abstract: Machine learning tools are increasingly used for decision-making in contexts
+    that have crucial ramifications. However, a growing body of research has established
+    that machine learning models are not immune to bias, especially on protected characteristics.
+    This had led to efforts to create mathematical definitions of fairness that could
+    be used to estimate whether, given a prediction task and a certain protected attribute,
+    an algorithm is being fair to members of all classes. But just like how philosophical
+    definitions of fairness can vary widely, mathematical definitions of fairness
+    vary as well, and fairness conditions can in fact be mutually exclusive. In addition,
+    the choice of model to use to optimize fairness is also a difficult decision we
+    have little intuition for. Consequently, our capstone project centers around an
+    empirical analysis for studying the relationships between machine learning models,
+    datasets, and various fairness metrics. We produce a 3-dimensional matrix of the
+    performance of a certain machine learning model, for a certain definition of fairness,
+    for a certain given dataset. Using this matrix on a sample of 8 datasets, 7 classification
+    models, and 9 fairness metrics, we discover empirical relationships between model
+    type and performance on specific metrics, in addition to correlations between
+    metric values across different dataset-model pairs. We also offer a website and
+    command-line interface for users to perform this experimentation on their own
+    datasets.
+  domain: domain_25
+  names: Daniel Tong, Anne Xu, Praveen Nair
+  num: project_1
+  repo: https://github.com/pnair7/ml-fairness.git
+  report: https://raw.githubusercontent.com/pnair7/artifact-directory-template/main/report.pdf
+  section: B10
+  title: Patterns of Fairness in Machine Learning
+  website: https://annemxu.github.io/ml-fairness/index.html
+- abstract: 'The increase of artificial light exposure through the increased prevalence
+    of technology has an affect on the sleep cycle and circadian rhythm of humans.
+    The goal of this project is to determine how different colors and intensities
+    of light exposure prior to sleep affects the quality of sleep through the classification
+    of time series data. '
+  domain: domain_26
+  names: Shubham Kaushal, Yuxiang Hu, Alex Liu
+  num: project_36
+  repo: https://github.com/GogoHYX/DSC180_sleep_apnea
+  report: https://raw.githubusercontent.com/alxjareyliu/artifact-directory-template/main/report.pdf
+  section: B11
+  title: Time Series Analysis on the Effect of Light Exposure on Sleep Quality
+  website: https://gogohyx.github.io/DSC180_sleep_apnea/
+- abstract: 'Sleeping is not uniform and consists of four stages: N1, N2, N3, and
+    REM sleep. The analysis of sleep stages is essential for understanding and diagnosing
+    sleep-related diseases, such as insomnia, narcolepsy, and sleep apnea; however,
+    sleep stage classification often does not generalize to patients with sleep apnea.
+    The goal of our project is to build a sleep stage classifier specifically for
+    people with sleep apnea and understand how it differs from the normal sleep stage.
+    We will then explore whether or not the inclusion and featurization of ECG data
+    will improve the performance of our model.'
+  domain: domain_26
+  names: Kevin Chin, Yilan Guo, Shaheen Daneshvar
+  num: project_35
+  repo: https://github.com/chinkevin/DSC180_sleep_apnea
+  report: https://raw.githubusercontent.com/shaheendane/artifact-directory-template/main/report.pdf
+  section: B11
+  title: Sleep Stage Classification for Patients With Sleep Apnea
+  website: https://yilang08.github.io/sleepstage/
+- abstract: 'Fire severity maps are an important tool for understanding fire damage
+    and managing forest recovery. They are mainly produced by several federal fire
+    mapping groups: MTBS, RAVG, and BAER. We have identified several key issues with
+    the completeness, consistency, and efficiency of their mapping methods that reduce
+    the effectiveness of their burn severity maps. In order to address these issues,
+    we propose the use of machine learning in conjunction with remote sensing data
+    as an alternative to traditional methods of producing severity maps, which rely
+    on in-situ data and spectral indices derived from image algebra. Several supervised
+    classifiers will be trained on sample data collected from 17 wildfires across
+    Northern California and their performances will be evaluated to judge their accuracy
+    at mapping fire severity.'
+  domain: domain_27
+  names: Alice Lu, Oscar Jimenez, Anthony Chi, Jaskaranpal Singh
+  num: project_40
+  repo: https://github.com/a2lu/CAPSTONE_WILDFIRE.git
+  report: https://raw.githubusercontent.com/Jsingh-23/artifact-directory-template/main/report.pdf
+  section: B12
+  title: Supervised Classification Approach to Wildfire Mapping in Northern California
+  website: https://cashcountinchi.github.io/b12_capstone/
+- abstract: 'Network degradation occurs in many forms, and our project will focus
+    on two common factors: packet loss and latency. Packet loss occurs when one or
+    more data packets transmitted across a computer network fail to reach their destination.
+    Latency can be defined as a measure of delay for data to transmit across a network.
+    For internet users, high rates of packet loss and significant latency can manifest
+    in jitter or lag, which are indicators of overall poor network performance as
+    perceived by the end user. Thus, when issues arise in these two factors, it would
+    be beneficial for internet service providers to know exactly when the user is
+    experiencing problems in real time. In real world scenarios, situations or environments
+    such as poor port quality, overloaded ports, network congestion and more can impact
+    overall network performance. In order to detect some of these issues in network
+    transmission data, we built an anomaly detection system that predicts the estimated
+    packet loss and latency of a connection and detects whether there is a significant
+    degradation of network quality for the duration of the connection.'
+  domain: domain_28
+  names: Jenna Yang
+  num: project_29
+  repo: https://github.com/LauraDiao/Anomaly_Detectives
+  report: https://raw.githubusercontent.com/jenna-my/artifact-directory-template/main/report.pdf
+  section: B13
+  title: Network Signal Anomaly Detection
+  website: https://lauradiao.github.io/Anomaly_Detectives/
+- abstract: MY SUPER AWESOME PROJECT ABSTRACT
+  domain: domain_28
+  names: Michael Pattik, Shasank Bonthala, Jaye Cho
+  num: project_28
+  repo: https://github.com/DSC-Capstone/project-templates.git
+  report: https://raw.githubusercontent.com/DSC-Capstone/artifact-directory-template/main/report.pdf
+  section: B13
+  title: MY SUPER AWESOME PROJECT TITLE
+  website: https://afraenkel.github.io/capstone-malware-domain/
+- abstract: Internet companies are expected to deliver the speed their customer has
+    paid for. However, for various reasons such as congestion or connectivity issues,
+    it is inevitable for one to perceive degradations in network quality.  To still
+    ensure the customer is satisfied, certain monitoring systems must be built to
+    inspect the quality of the connection. Our goal is to build a model that would
+    be able to detect, in real time, these regions of networks degradations, so that
+    an appropriate recovery can be enacted to offset these degradations. Our solution
+    is a combination of two anomaly detection methods that successfully detects shifts
+    in the data, based on a rolling window of data it has seen.
+  domain: domain_28
+  names: Tatum Maston
+  num: project_27
+  repo: https://github.com/tatummaston/anomaly_network_detection
+  report: https://raw.githubusercontent.com/tatummaston/artifact-directory-template/main/report.pdf
+  section: B13
+  title: Real Time Anomaly Detection in Networks
+  website: https://ctran0615.github.io/anomaly-network-detection/
+- abstract: Our goal for this project was to lower the user wait time when loading
+    programs by predicting the next used application. In order to obtain the needed
+    data, we created data collection libraries. Using this data, we created a Hidden
+    Markov Model (HMM) and a Long Short-Term Memory (LSTM) model, but the latter proved
+    to be better. Using LSTM, we can predict the application use time and expand this
+    concept to more applications. We created multiple LSTM models with varying results,
+    but ultimately chose a model that we think had potential. We decided on using
+    the model that reported a 90% accuracy.
+  domain: domain_29
+  names: Sasami Scott, Timothy Tran, Andy Do
+  num: project_26
+  repo: https://github.com/andydo1998/dsc180-data-analysis
+  report: https://raw.githubusercontent.com/andydo1998/artifact-directory-template/main/report.pdf
+  section: B14
+  title: Predicting Application Use to Reduce User Wait Time
+  website: https://github.com/andydo1998/dsc180-data-analysis
+- abstract: 'Despite advancements in hardware technology, PC users continue to face
+    frustrating app launch times, especially on lower end Windows machines. The desktop
+    experience differs vastly from the instantaneous app launches and optimized experience
+    we have come to expect even from low end smartphones. We propose a solution to
+    preemptively run Windows apps in the background based on the app usage patterns
+    of the user.
+
+
+    Our solution is two-step. First, we built telemetry collector modules in C/C++
+    to collect real-world app usage data from two of our personal Windows 10 devices.
+    Next, we developed neural network models, trained on the collected data, to predict
+    app usage times and corresponding launch sequences in python. We achieved impressive
+    results on selected evaluation metrics across different user profiles.'
+  domain: domain_29
+  names: Srikar Prayaga, Andrew Chin, Arjun Sawhney
+  num: project_24
+  repo: https://github.com/arjunsawhney1/intel-capstone-project.git
+  report: https://raw.githubusercontent.com/arjunsawhney1/artifact-directory-template/main/report.pdf
+  section: B14
+  title: 'Intel Telemetry: Data Collection & Time-Series Prediction of App Usage'
+  website: https://arjunsawhney1.github.io/intel-capstone-project
+- abstract: As the power of modern computing devices increases, so too do user expectations
+    for them. Despite advancements in technology, computer users are often faced with
+    the dreaded spinning icon waiting for an application to load. Building upon our
+    previous work developing data collectors with the Intel System Usage Reporting
+    (SUR) SDK, we introduce INTELlinext, a comprehensive solution for next-app prediction
+    for application preload to improve perceived system fluidity. We develop a Hidden
+    Markov Model (HMM) for prediction of the k most likely next apps, achieving an
+    accuracy of 64% when k = 3. We then implement a long short-term memory (LSTM)
+    model to predict the total duration that applications will be used. After hyperparameter
+    optimization leading to an optimal lookback value of 5 previous applications,
+    we are able to predict the usage time of a given application with a mean absolute
+    error of ~45 seconds. Our work constitutes a promising comprehensive application
+    preload solution with data collection based on the Intel SUR SDK and prediction
+    with machine learning.
+  domain: domain_29
+  names: Jared Thach, Hiroki Hoshida, Cyril Gorlla
+  num: project_25
+  repo: https://github.com/cgorlla/intel-sur.git
+  report: https://raw.githubusercontent.com/cgorlla/intel-capstone-submission/main/report.pdf
+  section: B14
+  title: 'INTELlinext: A Fully Integrated LSTM and HMM-Based Solution for Next-App
+    Prediction With Intel SUR SDK Data Collection'
+  website: https://cgorlla.github.io/intel-sur-site/

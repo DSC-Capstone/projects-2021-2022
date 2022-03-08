@@ -1,0 +1,7 @@
+safe: true
+title: "UCSD Data Science Capstone Projects: 2021-2022"
+source: .
+destination: _site
+url: "https://dsc-capstone.github.io/projects-2021-2022"
+permalink: /:name/
+exclude: [projects]
