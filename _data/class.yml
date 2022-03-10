@@ -11,8 +11,8 @@
     be actually due to social class or perceived social class of the individual rather
     than their race.
   domain: domain_00
-  names: Leon Kuo
-  num: project_50
+  names: Ronaldo Romano, Jason Sheu, Leon Kuo
+  num: project_51
   repo: https://github.com/leonkuoDSC/Policing_and_Income.git
   report: https://raw.githubusercontent.com/leonkuoDSC/artifact-directory-template/main/report.pdf
   section: A01
@@ -40,12 +40,27 @@
   section: A02
   title: Stock Price Prediction Based on Financial News
   website: https://aponyua991.github.io/AutoFiNews/
+- abstract: Phrase mining is a useful tool to extract quality phrases from large text
+    corpora. Previous work on this topic, such as AutoPhrase, demonstrates its effectiveness
+    against baseline methods by using precision-recall as a metric. Our goal is to
+    extend this work by analyzing how AutoPhrase phrases change over time, as well
+    as how phrases are connected with each other by using network visualizations.
+    This will be done through exploratory data analysis, along with a classification
+    model utilizing individual phrases to predict a specific year range.
+  domain: domain_01
+  names: Jason Lin, Cameron Brody, James Yu
+  num: project_23
+  repo: https://github.com/jamesjaeyu/autophrase_over_time.git
+  report: https://raw.githubusercontent.com/jamesjaeyu/artifact-directory-template/main/report.pdf
+  section: A02
+  title: Utilizing AutoPhrase on Computer Science papers over time
+  website: https://jamesjaeyu.github.io/autophrase_over_time/
 - abstract: Building a spam detection algorithm by utilizing Natural Language Processing
     to extract features associated with spam emails. Deep Learning methods as well
     as word-to-vector transformation are used to create a spam email classifier.
   domain: domain_01
   names: Jonathan Tanoto
-  num: project_23
+  num: project_22
   repo: https://github.com/jonathantanoto/spam_detection_180B/
   report: https://raw.githubusercontent.com/jonathantanoto/artifact-directory-template/main/report.pdf
   section: A02
@@ -66,27 +81,12 @@
     \ a 60% accuracy in its communication between AI and Human."
   domain: domain_01
   names: Xuewei Yan, Cameron Shaw, Yongqing Li
-  num: project_22
+  num: project_21
   repo: https://github.com/YongqingLi14/codenames-ai-analysis.git
   report: https://raw.githubusercontent.com/YongqingLi14/artifact-directory-template/main/report.pdf
   section: A02
   title: Codenames AI
   website: https://xueweiyan.github.io/codenames-ai-website/
-- abstract: Phrase mining is a useful tool to extract quality phrases from large text
-    corpora. Previous work on this topic, such as AutoPhrase, demonstrates its effectiveness
-    against baseline methods by using precision-recall as a metric. Our goal is to
-    extend this work by analyzing how AutoPhrase phrases change over time, as well
-    as how phrases are connected with each other by using network visualizations.
-    This will be done through exploratory data analysis, along with a classification
-    model utilizing individual phrases to predict a specific year range.
-  domain: domain_01
-  names: Jason Lin, Cameron Brody, James Yu
-  num: project_21
-  repo: https://github.com/jamesjaeyu/autophrase_over_time.git
-  report: https://raw.githubusercontent.com/jamesjaeyu/artifact-directory-template/main/report.pdf
-  section: A02
-  title: Utilizing AutoPhrase on Computer Science papers over time
-  website: https://jamesjaeyu.github.io/autophrase_over_time/
 - abstract: In this project, we set out to explore the application of blockchain technology
     to Electronical Health Records systems. As we are prototyping the blockchain applications
     on the Electronic Medical Records System using our proposed Medcoin application,
@@ -109,15 +109,6 @@
   section: A03
   title: An Exploration on Medical Records using Blockchain Technology
   website: https://ellawan.github.io/
-- abstract: MY SUPER AWESOME PROJECT ABSTRACT
-  domain: domain_03
-  names: Kailing Ding, Judy Jin, Derek Leung, Miles Labrador
-  num: project_32
-  repo: https://github.com/DSC-Capstone/project-templates.git
-  report: https://raw.githubusercontent.com/DSC-Capstone/artifact-directory-template/main/report.pdf
-  section: A04
-  title: MY SUPER AWESOME PROJECT TITLE
-  website: https://afraenkel.github.io/capstone-malware-domain/
 - abstract: "Having observed data seems to be a necessary requirement to conduct inference,\
     \ but what happens when observed outcomes cannot easily be obtained? A growing\
     \ practice is to simply proceed with using predicted outcomes, but without any\
@@ -167,7 +158,7 @@
     to solve this problem.
   domain: domain_05
   names: Duha Aldebakel, Rui Zhang, Anthony Limon, Yu Cao
-  num: project_41
+  num: project_42
   repo: https://github.com/duha-aldebakel/DSC180B-LDACode
   report: https://raw.githubusercontent.com/a1limon/artifact-directory-template/main/report.pdf
   section: A06
@@ -183,65 +174,12 @@
     and Random Forest may benefit (or not benefit) in this field.
   domain: domain_07
   names: Raymond Zhao, Brady Zhou
-  num: project_42
+  num: project_43
   repo: https://github.com/889884m/DSC180_Project.git
   report: https://raw.githubusercontent.com/889884m/artifact-directory/main/report.pdf
   section: A08
   title: Locating Sound with Machine Learning
   website: https://889884m.github.io/DSC180_Project/
-- abstract: Pyrenote is a project in development by a growing group of student researchers
-    here at UCSD. It's primary purpose is to allow anyone to contribute to research
-    by labeling data in an intuitive and accessible way. Right now it is currently
-    being used to develop a sort of voice recognition for birds. The goal is to make
-    an algorithm that can strongly label data (say where in the clip a bird is calling
-    and what bird is making the call). To do this, a very vast dataset is needed to
-    be labeled. I worked mostly on the user experience side. Allowing them to interact
-    with their labeling in new ways, such as keeping tabs on their progress and reaching
-    goals. Developing a User Profile page was the primary source for receiving this
-    data and was developed iteratively as a whole new page for the site
-  domain: domain_08
-  names: Dylan Nelson
-  num: project_15
-  repo: https://github.com/UCSD-E4E/Pyrenote
-  report: https://raw.githubusercontent.com/dylannelson/artifact-directory-template/main/report.pdf
-  section: A09
-  title: Pyrenote - User Profile Design & Accessible Data
-  website: https://www.dylan-nelson.com/Pyrenote/
-- abstract: Leveraging "Deep Learning" methods to classify temporal presence birds
-    in recorded bird vocalization audio. Using a hybrid CNN-RNN model, trained on
-    audio data, in the interest of benefitting wildlife monitoring and preservation.
-  domain: domain_08
-  names: Edmundo Zamora
-  num: project_16
-  repo: https://github.com/EdmundoZamora/TweetyNet_CUDA_GPU_Adaptation.git
-  report: https://raw.githubusercontent.com/EdmundoZamora/artifact-directory-template/main/report.pdf
-  section: A09
-  title: 'Eco-Acoustic Event Detection: Classifying temporal presence of birds in
-    recorded bird vocalization audio'
-  website: https://edmundozamora.github.io/DSC180-A09-Eco-Acoustic-Detection/
-- abstract: null
-  domain: domain_08
-  names: Harsha Jagarlamudi, Kelly Kong
-  num: project_17
-  repo: null
-  report: null
-  section: A09
-  title: null
-  website: null
-- abstract: The website, Pyrenote, is helping scientists track bird populations by
-    identifying them using machine learning classifiers on publicly annotated audio
-    recordings. I have implemented three features over the course of two academic
-    quarters aimed at streamlining user experience and improving scalability. The
-    added scalability will be useful for future projects as we start becoming more
-    ambitious with the number of users we bring to the site.
-  domain: domain_08
-  names: Wesley Zhen
-  num: project_18
-  repo: https://github.com/UCSD-E4E/Pyrenote
-  report: https://raw.githubusercontent.com/WesCodes/artifact-directory-template/main/report.pdf
-  section: A09
-  title: Pyrenote Webdeveloper
-  website: https://wescodes.github.io/Wes_Project/
 - abstract: 'Nowadays, human activities such as wildfires and hunting have become
     the largest factor that would have serious negative effects on biodiversity. In
     order to deeply understand how anthropogenic activities deeply affect wildlife
@@ -267,49 +205,66 @@
     different between these two github. For this github, we use the peru data instead
     of Coastal_Reserve data.'
   domain: domain_08
-  names: Qiaochen Sun
-  num: project_19
+  names: Jinsong Yang, Qiaochen Sun
+  num: project_18
   repo: https://github.com/sunqiaochen/NeurlPS_2022_DSC180
   report: https://raw.githubusercontent.com/sunqiaochen/artifact-directory-template/main/report.pdf
   section: A09
   title: E4E MicroFaune Project
   website: https://github.com/sunqiaochen/NeurlPS_2022_DSC180
-- abstract: "Spread of misinformation over social media posts challenges to daily\
-    \ information intake and exchange. Especially under current covid 19 pandemic,\
-    \ the disperse of misinformation regarding to covid 19 diseases and vaccination\
-    \ posts threats to individuals' wellbeing's and general publish health. The people's\
-    \ worries also increase with misinformation such as the shortage of food and water.\
-    \ This spread of misinformation also provide This project seeks to investigate\
-    \ the spread of misinformation over social media (Twitter) under covid 19 pandemic.\
-    \ wo main directions are investigated in the project. The first direction is the\
-    \ analysis of the effect of bot users on the spread of misinformation: We want\
-    \ to explore what is the role that robot user plays in spreading the misinformation.\
-    \ Where are the bot users located in the social network. The second direction\
-    \ is the sentiment analysis that examines users' attitudes towards misinformation:\
-    \ We want to see the spread of sentiment with different places in social networks.\
-    \ We also mixed the two directions: What is the relationship between bot-users\
-    \ with positive and negative emptions? Since online social medias users form social\
-    \ networks, the project also seeks to investigate the effect of social network\
-    \ on the above two topics. Moreover, the project is also interested in exploring\
-    \ the change in proportion of bot users and users' attitude towards misinformation\
-    \ as \nthe social network becomes more concentrated and tightly connected."
-  domain: domain_09
-  names: Ruojia Tao
-  num: project_2
-  repo: https://github.com/RuojiaTao/Covid-Misinformation-Spread-on-Tweets.git
-  report: https://raw.githubusercontent.com/RuojiaTao/artifact-directory-template/main/report.pdf
-  section: A10
-  title: Who is Spreading Misinformation and Worries in Twitter?
-  website: https://ruojiatao.github.io/Covid-Misinformation-Spread-on-Tweets/
-- abstract: MY SUPER AWESOME PROJECT ABSTRACT
-  domain: domain_09
-  names: Aditi Shrivastava, Tyler Ready
-  num: project_3
-  repo: https://github.com/DSC-Capstone/project-templates.git
-  report: https://raw.githubusercontent.com/DSC-Capstone/artifact-directory-template/main/report.pdf
-  section: A10
-  title: MY SUPER AWESOME PROJECT TITLE
-  website: https://afraenkel.github.io/capstone-malware-domain/
+- abstract: Pyrenote is a project in development by a growing group of student researchers
+    here at UCSD. It's primary purpose is to allow anyone to contribute to research
+    by labeling data in an intuitive and accessible way. Right now it is currently
+    being used to develop a sort of voice recognition for birds. The goal is to make
+    an algorithm that can strongly label data (say where in the clip a bird is calling
+    and what bird is making the call). To do this, a very vast dataset is needed to
+    be labeled. I worked mostly on the user experience side. Allowing them to interact
+    with their labeling in new ways, such as keeping tabs on their progress and reaching
+    goals. Developing a User Profile page was the primary source for receiving this
+    data and was developed iteratively as a whole new page for the site
+  domain: domain_08
+  names: Dylan Nelson
+  num: project_15
+  repo: https://github.com/UCSD-E4E/Pyrenote
+  report: https://raw.githubusercontent.com/dylannelson/artifact-directory-template/main/report.pdf
+  section: A09
+  title: Pyrenote - User Profile Design & Accessible Data
+  website: https://www.dylan-nelson.com/Pyrenote/
+- abstract: Leveraging "Deep Learning" methods to classify temporal presence birds
+    in recorded bird vocalization audio. Using a hybrid CNN-RNN model, trained on
+    audio data, in the interest of benefitting wildlife monitoring and preservation.
+  domain: domain_08
+  names: Alan Arce, Edmundo Zamora
+  num: project_16
+  repo: https://github.com/EdmundoZamora/TweetyNet_CUDA_GPU_Adaptation.git
+  report: https://raw.githubusercontent.com/EdmundoZamora/artifact-directory-template/main/report.pdf
+  section: A09
+  title: 'Eco-Acoustic Event Detection: Classifying temporal presence of birds in
+    recorded bird vocalization audio'
+  website: https://edmundozamora.github.io/DSC180-A09-Eco-Acoustic-Detection/
+- abstract: null
+  domain: domain_08
+  names: Harsha Jagarlamudi, Kelly Kong
+  num: project_17
+  repo: null
+  report: null
+  section: A09
+  title: null
+  website: null
+- abstract: The website, Pyrenote, is helping scientists track bird populations by
+    identifying them using machine learning classifiers on publicly annotated audio
+    recordings. I have implemented three features over the course of two academic
+    quarters aimed at streamlining user experience and improving scalability. The
+    added scalability will be useful for future projects as we start becoming more
+    ambitious with the number of users we bring to the site.
+  domain: domain_08
+  names: Wesley Zhen
+  num: project_19
+  repo: https://github.com/UCSD-E4E/Pyrenote
+  report: https://raw.githubusercontent.com/WesCodes/artifact-directory-template/main/report.pdf
+  section: A09
+  title: Pyrenote Webdeveloper
+  website: https://wescodes.github.io/Wes_Project/
 - abstract: "In our Capstone Project, we explore the spread of misinformation online.\
     \ More specifically, we look at the spread of misinformation across Twitter and\
     \ YouTube because of the large role these two social media platforms play in the\
@@ -322,7 +277,7 @@
     \ misinformation. Our research focuses on the domain of public health as this\
     \ is the subject of many conspiracies, varying opinions, and fake news. \n"
   domain: domain_09
-  names: Anamika Gupta
+  names: Alisha Sehgal, Anamika Gupta
   num: project_4
   repo: https://github.com/fieryashes/DSC180B_Misinformation_Project.git
   report: https://raw.githubusercontent.com/anaaamika/artifact-directory-template/main/report.pdf
@@ -348,6 +303,33 @@
   section: A10
   title: Misinformation on Reddit
   website: https://davamini.com/dsc180_project.github.io/
+- abstract: "Spread of misinformation over social media posts challenges to daily\
+    \ information intake and exchange. Especially under current covid 19 pandemic,\
+    \ the disperse of misinformation regarding to covid 19 diseases and vaccination\
+    \ posts threats to individuals' wellbeing's and general publish health. The people's\
+    \ worries also increase with misinformation such as the shortage of food and water.\
+    \ This spread of misinformation also provide This project seeks to investigate\
+    \ the spread of misinformation over social media (Twitter) under covid 19 pandemic.\
+    \ wo main directions are investigated in the project. The first direction is the\
+    \ analysis of the effect of bot users on the spread of misinformation: We want\
+    \ to explore what is the role that robot user plays in spreading the misinformation.\
+    \ Where are the bot users located in the social network. The second direction\
+    \ is the sentiment analysis that examines users' attitudes towards misinformation:\
+    \ We want to see the spread of sentiment with different places in social networks.\
+    \ We also mixed the two directions: What is the relationship between bot-users\
+    \ with positive and negative emptions? Since online social medias users form social\
+    \ networks, the project also seeks to investigate the effect of social network\
+    \ on the above two topics. Moreover, the project is also interested in exploring\
+    \ the change in proportion of bot users and users' attitude towards misinformation\
+    \ as \nthe social network becomes more concentrated and tightly connected."
+  domain: domain_09
+  names: Lehan Li, Ruojia Tao
+  num: project_2
+  repo: https://github.com/RuojiaTao/Covid-Misinformation-Spread-on-Tweets.git
+  report: https://raw.githubusercontent.com/RuojiaTao/artifact-directory-template/main/report.pdf
+  section: A10
+  title: Who is Spreading Misinformation and Worries in Twitter?
+  website: https://ruojiatao.github.io/Covid-Misinformation-Spread-on-Tweets/
 - abstract: "Extending the content of last quarter of deep sets neural network, fully\
     \ connected neural network classifier, adversarial deep set model and designed\
     \ decorrelated tagger (DDT), we went a little bit further this quarter about picking\
@@ -386,21 +368,32 @@
     \ and processed by CERN, we implemented a model capable of improving jet mass\
     \ prediction through jet features."
   domain: domain_10
-  names: Isac Lee
+  names: Jayden Lee, Dan Ngo, Isac Lee
   num: project_30
   repo: https://github.com/UCSDJLEE/DSC180B-A11-Project
   report: https://raw.githubusercontent.com/isacmlee/artifact-directory-template/main/report.pdf
   section: A11
   title: Predicting a Particle's True Mass
   website: https://isacmlee.github.io/particle-physics-visuals/
-- abstract: MY SUPER AWESOME PROJECT ABSTRACT
+- abstract: "Our problem of interest for this project is to investigate ways to reduce\
+    \ the size of machine learning models while maintaining the same functionalities\
+    \ and performances as before. Our initial step is to investigate the methods introduced\
+    \ in the paper \u201CQuantized Neural Networks: Training Neural Networks with\
+    \ Low Precision Weights and Activations\u201D. We will reproduce the methods and\
+    \ experiments described in the paper with more modernized libraries, Tensorflow\
+    \ and PyTorch, instead of Theano which was what the paper originally used. After\
+    \ we have a better understanding of neural networks and the current methods, we\
+    \ will shift our focus on assessing the effect of changing the number of bits\
+    \ has on the performance of our neural network mode. Additionally, we will explore\
+    \ if the use of other functions(other than the HardTanh function) during backpropagation\
+    \ affects BNNs\u2019 accuracy."
   domain: domain_11
   names: Aileena Wen, Lukas Williams
-  num: project_51
+  num: project_52
   repo: https://github.com/lwilliams620/dsc180b.git
   report: https://raw.githubusercontent.com/lwilliams620/artifact-directory-template/main/report.pdf
   section: A12
-  title: MY SUPER AWESOME PROJECT TITLE
+  title: Investigation and Analysis on Quantization of Neural Networks
   website: https://bonnie117.github.io/#
 - abstract: Use Graph-based Analysis to Re-classify Stocks in China A-share and Improve
     Markowitz Portfolio Optimization
@@ -449,28 +442,12 @@
     \ faculty candidates to their industry partner\u2019s particular job."
   domain: domain_13
   names: Martha Yanez, Sijie Liu, Siddhi Patel, Brian Qian, Du Xiang
-  num: project_37
+  num: project_36
   repo: https://github.com/MarthaY01/hdsi_faculty_tool/tree/main
   report: https://raw.githubusercontent.com/xd00099/HDSI-faculty-tool-artifact-directory/main/report.pdf
   section: A14
   title: HDSI Faculty Exploration Tool
   website: https://marthay01.github.io/hdsi_faculty_tool/
-- abstract: In order to combat against such adversarial instances, there needs to
-    be robust training done with these models in order to best protect against the
-    methods that these attacks use on deep learning systems. In the scope of this
-    paper, we will be looking into the methods of fast gradient signed method and
-    projected gradient descent, two methods used in adversarial attacks to maximize
-    loss functions and cause the affected system to make opposing predictions, in
-    order to train our models against them and allow for stronger accuracy when faced
-    with adversarial examples.
-  domain: domain_14
-  names: Rakesh Senthilvelan, Madeline Tjoa
-  num: project_11
-  repo: https://github.com/Maderlime/DSC180_Q1_Code
-  report: https://raw.githubusercontent.com/rakeshsenthil/artifact-directory-template/main/report.pdf
-  section: A15
-  title: 'Healthcare: Adversarial Defense In Medical Deep Learning Systems'
-  website: https://medicala15.github.io/about/
 - abstract: Autonomous vehicles rely heavily on deep fusion modeling, which utilize
     multiple inputs for its inferences and decision making. By using the shared information
     from these inputs, the deep fusion model benefits from shared information, which
@@ -492,24 +469,22 @@
   section: A15
   title: Improving Robustness in Deep Fusion Modeling Against Adversarial Attacks
   website: https://ayushmore.github.io/adversarial-avod/
-- abstract: MY SUPER AWESOME PROJECT ABSTRACT
-  domain: domain_15
-  names: Ivan Cano, Byungheon Jeong
-  num: project_34
-  repo: https://github.com/DSC-Capstone/project-templates.git
-  report: https://raw.githubusercontent.com/DSC-Capstone/artifact-directory-template/main/report.pdf
-  section: A16
-  title: MY SUPER AWESOME PROJECT TITLE
-  website: https://afraenkel.github.io/capstone-malware-domain/
-- abstract: null
-  domain: domain_16
-  names: Trevor Tuttle, Mizuki Kadowaki, Jeffrey Feng, Takashi Yabuta, Shweta Kumar
-  num: project_49
-  repo: null
-  report: null
-  section: B01
-  title: null
-  website: null
+- abstract: In order to combat against such adversarial instances, there needs to
+    be robust training done with these models in order to best protect against the
+    methods that these attacks use on deep learning systems. In the scope of this
+    paper, we will be looking into the methods of fast gradient signed method and
+    projected gradient descent, two methods used in adversarial attacks to maximize
+    loss functions and cause the affected system to make opposing predictions, in
+    order to train our models against them and allow for stronger accuracy when faced
+    with adversarial examples.
+  domain: domain_14
+  names: Rakesh Senthilvelan, Madeline Tjoa
+  num: project_11
+  repo: https://github.com/Maderlime/DSC180_Q1_Code
+  report: https://raw.githubusercontent.com/rakeshsenthil/artifact-directory-template/main/report.pdf
+  section: A15
+  title: 'Healthcare: Adversarial Defense In Medical Deep Learning Systems'
+  website: https://medicala15.github.io/about/
 - abstract: 'In order to combat the large scale distribution of misinformation online,
     We wanted to develop a way to flag news articles that are misinformative and could
     potentially mislead the general public.  In addition to flagging news articles,
@@ -527,7 +502,7 @@
     investigation into how misinformation is written and distributed online.'
   domain: domain_17
   names: Lucas Nguyen, Hwang Yu, Maximilian Halvax
-  num: project_39
+  num: project_40
   repo: https://github.com/freebreadstix/capstone_B02
   report: https://raw.githubusercontent.com/micmiccitymax/artifact-directory-template/main/report.pdf
   section: B02
@@ -547,7 +522,7 @@
     \ leads to an increase in toxicity and negative sentiment towards a canceled individual."
   domain: domain_17
   names: Peter Wu, Nikitha Gopal, Abigail Velasquez
-  num: project_38
+  num: project_39
   repo: https://github.com/aavelasq/dsc180-Q2sentiment.git
   report: https://raw.githubusercontent.com/aavelasq/artifact-directory-template/main/report.pdf
   section: B02
@@ -575,21 +550,12 @@
     a valuable asset in single-cell data analysis.
   domain: domain_18
   names: Alex Nguyen, Brian Vi
-  num: project_46
+  num: project_47
   repo: https://github.com/18anguyen9/Single_Cell_Coupled_Autoencoders
   report: https://raw.githubusercontent.com/brianvi-98/artifact-directory-template/main/report.pdf
   section: B03
   title: Coupled Autoencoders for Single-Cell Data Analysis
   website: https://18anguyen9.github.io/DSC_180_website/
-- abstract: MY SUPER AWESOME PROJECT ABSTRACT
-  domain: domain_19
-  names: Qiwen Zhang
-  num: project_9
-  repo: https://github.com/DSC-Capstone/project-templates.git
-  report: https://raw.githubusercontent.com/DSC-Capstone/artifact-directory-template/main/report.pdf
-  section: B04
-  title: MY SUPER AWESOME PROJECT TITLE
-  website: https://afraenkel.github.io/capstone-malware-domain/
 - abstract: "Prompt tuning and prefix tuning are two effective mechanisms to leverage\
     \ frozen language models to perform downstream tasks. Robustness reflects models\u2019\
     \ resilience of output under a change or noise in the input. In this project,\
@@ -643,21 +609,12 @@
     \ those XAI methods using domain knowledge."
   domain: domain_21
   names: Jerry Chan, Apoorv Pochiraju, Zhendong Wang, Yujie Zhang
-  num: project_43
+  num: project_44
   repo: https://github.com/zhw005/DSC180B-Project
   report: https://raw.githubusercontent.com/yujiezhang0914/artifact-directory-template/main/report.pdf
   section: B06
   title: Explainable AI
   website: https://yujiezhang0914.github.io/DSC180B-Project-Website/
-- abstract: MY SUPER AWESOME PROJECT ABSTRACT
-  domain: domain_22
-  names: Eric Manirasith
-  num: project_45
-  repo: https://github.com/DSC-Capstone/project-templates.git
-  report: https://raw.githubusercontent.com/DSC-Capstone/artifact-directory-template/main/report.pdf
-  section: B07
-  title: MY SUPER AWESOME PROJECT TITLE
-  website: https://afraenkel.github.io/capstone-malware-domain/
 - abstract: "The first step AutoML software must take after loading in the data is\
     \ to identify the feature types of individual columns in input data. This information\
     \ then allows the software to understand the data and then preprocess it to allow\
@@ -685,7 +642,7 @@
     \ and much better scalability for all input data."
   domain: domain_22
   names: Andrew Shen, Tanveer Mittal
-  num: project_44
+  num: project_45
   repo: https://github.com/TanveerMittal/Feature_Type_Inference_Capstone
   report: https://raw.githubusercontent.com/TanveerMittal/artifact-directory-template/main/report.pdf
   section: B07
@@ -705,7 +662,7 @@
     are more prone to overfitting.
   domain: domain_23
   names: Cheolmin Hwang, Amelia Kawasaki, Robert Dunn
-  num: project_48
+  num: project_49
   repo: https://github.com/amelia-kawasaki/dsc_capstone
   report: https://raw.githubusercontent.com/rdunnUCSD/capstone-artifact-directory/main/report.pdf
   section: B08
@@ -723,7 +680,7 @@
     of infection converges to 1%.
   domain: domain_24
   names: Jeffrey Chu, Mengfan Chen, Vincent Lee, Ethan Dinh-Luong
-  num: project_47
+  num: project_48
   repo: https://github.com/edinhluo/DSC180-Capstone-Project
   report: https://raw.githubusercontent.com/edinhluo/artifact-directory-template/main/report.pdf
   section: B09
@@ -785,7 +742,7 @@
     of time series data. '
   domain: domain_26
   names: Shubham Kaushal, Yuxiang Hu, Alex Liu
-  num: project_36
+  num: project_38
   repo: https://github.com/GogoHYX/DSC180_sleep_apnea
   report: https://raw.githubusercontent.com/alxjareyliu/artifact-directory-template/main/report.pdf
   section: B11
@@ -801,7 +758,7 @@
     will improve the performance of our model.'
   domain: domain_26
   names: Kevin Chin, Yilan Guo, Shaheen Daneshvar
-  num: project_35
+  num: project_37
   repo: https://github.com/chinkevin/DSC180_sleep_apnea
   report: https://raw.githubusercontent.com/shaheendane/artifact-directory-template/main/report.pdf
   section: B11
@@ -820,7 +777,7 @@
     at mapping fire severity.'
   domain: domain_27
   names: Alice Lu, Oscar Jimenez, Anthony Chi, Jaskaranpal Singh
-  num: project_40
+  num: project_41
   repo: https://github.com/a2lu/CAPSTONE_WILDFIRE.git
   report: https://raw.githubusercontent.com/Jsingh-23/artifact-directory-template/main/report.pdf
   section: B12
@@ -841,22 +798,13 @@
     packet loss and latency of a connection and detects whether there is a significant
     degradation of network quality for the duration of the connection.'
   domain: domain_28
-  names: Jenna Yang
+  names: Laura Diao, Benjamin Sam, Jenna Yang
   num: project_29
   repo: https://github.com/LauraDiao/Anomaly_Detectives
   report: https://raw.githubusercontent.com/jenna-my/artifact-directory-template/main/report.pdf
   section: B13
   title: Network Signal Anomaly Detection
   website: https://lauradiao.github.io/Anomaly_Detectives/
-- abstract: MY SUPER AWESOME PROJECT ABSTRACT
-  domain: domain_28
-  names: Michael Pattik, Shasank Bonthala, Jaye Cho
-  num: project_28
-  repo: https://github.com/DSC-Capstone/project-templates.git
-  report: https://raw.githubusercontent.com/DSC-Capstone/artifact-directory-template/main/report.pdf
-  section: B13
-  title: MY SUPER AWESOME PROJECT TITLE
-  website: https://afraenkel.github.io/capstone-malware-domain/
 - abstract: Internet companies are expected to deliver the speed their customer has
     paid for. However, for various reasons such as congestion or connectivity issues,
     it is inevitable for one to perceive degradations in network quality.  To still
@@ -867,7 +815,7 @@
     is a combination of two anomaly detection methods that successfully detects shifts
     in the data, based on a rolling window of data it has seen.
   domain: domain_28
-  names: Tatum Maston
+  names: Justin Harsono, Charlie Tran, Tatum Maston
   num: project_27
   repo: https://github.com/tatummaston/anomaly_network_detection
   report: https://raw.githubusercontent.com/tatummaston/artifact-directory-template/main/report.pdf
@@ -884,12 +832,12 @@
     the model that reported a 90% accuracy.
   domain: domain_29
   names: Sasami Scott, Timothy Tran, Andy Do
-  num: project_26
+  num: project_25
   repo: https://github.com/andydo1998/dsc180-data-analysis
   report: https://raw.githubusercontent.com/andydo1998/artifact-directory-template/main/report.pdf
   section: B14
   title: Predicting Application Use to Reduce User Wait Time
-  website: https://github.com/andydo1998/dsc180-data-analysis
+  website: https://andydo1998.github.io
 - abstract: 'Despite advancements in hardware technology, PC users continue to face
     frustrating app launch times, especially on lower end Windows machines. The desktop
     experience differs vastly from the instantaneous app launches and optimized experience
@@ -927,7 +875,7 @@
     with machine learning.
   domain: domain_29
   names: Jared Thach, Hiroki Hoshida, Cyril Gorlla
-  num: project_25
+  num: project_26
   repo: https://github.com/cgorlla/intel-sur.git
   report: https://raw.githubusercontent.com/cgorlla/intel-capstone-submission/main/report.pdf
   section: B14

@@ -1,93 +1,93 @@
-- Mentor: Aaron Fraenkel
+- Mentor Name: Aaron Fraenkel
   name: Fair Policing
   num: domain_00
-- Mentor: Jingbo Shang
+- Mentor Name: Jingbo Shang
   name: Text Mining and NLP
   num: domain_01
-- Mentor: Rajesh K. Gupta
+- Mentor Name: Rajesh K. Gupta
   name: Blockchain / Smart-Contracts
   num: domain_02
-- Mentor: Rose Yu
+- Mentor Name: Rose Yu
   name: spatiotemporal machine learning
   num: domain_03
-- Mentor: Jelena Bradic
+- Mentor Name: Jelena Bradic
   name: High-dimensional Statistical Learning, Causal Inference, Robust ML, Fair ML
   num: domain_04
-- Mentor: Yian Ma
+- Mentor Name: Yian Ma
   name: Machine Learning (TBA)
   num: domain_05
-- Mentor: Ilkay Altintas
+- Mentor Name: Ilkay Altintas
   name: Wildfire and Environmental Data Analysis
   num: domain_06
-- Mentor: Peter Gerstoft
+- Mentor Name: Peter Gerstoft
   name: Machine learning for physical systems
   num: domain_07
-- Mentor: Ryan Kastner
+- Mentor Name: Ryan Kastner
   name: Environmental Monitoring, remote sensing, cyber-physical systems, Engineers
     for Exploration
   num: domain_08
-- Mentor: Justin Eldridge
+- Mentor Name: Justin Eldridge
   name: Spread of Misinformation Online
   num: domain_09
-- Mentor: Javier Duarte
+- Mentor Name: Javier Duarte
   name: Particle Physics
   num: domain_10
-- Mentor: Rayan Saab
+- Mentor Name: Rayan Saab
   name: Mathematical Signal Processing (compression of deep nets, or optimization
     for data-science/ML)
   num: domain_11
-- Mentor: Aaron Fraenkel
+- Mentor Name: Aaron Fraenkel
   name: graph neural networks
   num: domain_12
-- Mentor: Molly Roberts
+- Mentor Name: Molly Roberts
   name: NLP, Misinformation
   num: domain_13
-- Mentor: Lily Weng
+- Mentor Name: Lily Weng
   name: AI in Healthcare, Deep Reinforcement Learning, Trustworthy Machine Learning
   num: domain_14
-- Mentor: Armin Schwartzman
+- Mentor Name: Armin Schwartzman
   name: Satellite image analysis
   num: domain_15
-- Mentor: Berk Ustun
+- Mentor Name: Berk Ustun
   name: ML for Finance, ML for Healthcare, Fair ML, ML for Science
   num: domain_16
-- Mentor: Stuart Geiger
+- Mentor Name: Stuart Geiger
   name: Social media; online communities; text analysis; ethics
   num: domain_17
-- Mentor: Yusu Wang
+- Mentor Name: Yusu Wang
   name: Analyzing single cell multimodality data via (coupled) autoencoder neural
     networks
   num: domain_18
-- Mentor: Zhiting Hu
+- Mentor Name: Zhiting Hu
   name: Machine Learning, Natural Language Processing
   num: domain_19
-- Mentor: Alex Cloninger, Deloitte
+- Mentor Name: Alex Cloninger, Deloitte
   name: Activity Based Travel Models and Feature Selection
   num: domain_20
-- Mentor: Babak Salimi
+- Mentor Name: Babak Salimi
   name: Explainable AI, Causal Inference
   num: domain_21
-- Mentor: Arun Kumar
+- Mentor Name: Arun Kumar
   name: AutoML Platforms
   num: domain_22
-- Mentor: Misha Belkin
+- Mentor Name: Misha Belkin
   name: AI/ML
   num: domain_23
-- Mentor: Arya Mazumdar
+- Mentor Name: Arya Mazumdar
   name: Group Testing for Optimizing COVID-19 Testing
   num: domain_24
-- Mentor: David Danks
+- Mentor Name: David Danks
   name: Causal Discovery
   num: domain_25
-- Mentor: Benjamin Smarr
+- Mentor Name: Benjamin Smarr
   name: Time series analysis in health
   num: domain_26
-- Mentor: Jennifer Burney
+- Mentor Name: Jennifer Burney
   name: Environmental health exposures & pollution modeling & land-use change dynamics
   num: domain_27
-- Mentor: Viasat
+- Mentor Name: Viasat
   name: Network Performance Classification
   num: domain_28
-- Mentor: Intel
+- Mentor Name: Intel
   name: System Usage Reporting
   num: domain_29
